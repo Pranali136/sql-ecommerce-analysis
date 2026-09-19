@@ -108,10 +108,8 @@ sql-ecommerce-analysis/
 │
 ├── sql/
 │   ├── 01_database_setup.sql
-│   └── 02_analysis_queries.sql
-│
-└── screenshots/
-    └── query_results.png
+│  └── 02_analysis_queries.sql
+└── 
 ```
 
 ## Tools & Technologies
